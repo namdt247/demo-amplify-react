@@ -7,7 +7,7 @@ function HomePage(props) {
         color: "rebeccapurple",
       }}
     >
-      Home page demo
+      Home page main
     </div>
   );
 }
