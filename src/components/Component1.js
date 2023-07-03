@@ -7,7 +7,7 @@ function Component1(props) {
       color: "red",
       fontSize: 40,
     }}>
-      Component {number}
+      Component Rebase 01 {number}
     </div>
   );
 }

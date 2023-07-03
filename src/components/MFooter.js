@@ -4,7 +4,7 @@ function MFooter(props) {
   const { year } = props;
   return (
     <div>
-      Information footer, {year}
+      Information footer, Rebase 01 {year}
     </div>
   );
 }
