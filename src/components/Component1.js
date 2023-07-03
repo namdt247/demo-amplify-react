@@ -7,9 +7,8 @@ function Component1(props) {
       color: "red",
       fontSize: 40,
     }}>
-      Component Rebase 01-01 {number}
-      Component Rebase-child 02 {number}
-      Component Rebase-child Task 02 {number}
+      Component Rebase Main 01 {number}
+      Component Rebase-child Main 01 {number}
     </div>
   );
 }
