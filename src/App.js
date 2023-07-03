@@ -3,6 +3,7 @@ import './App.css';
 import HomePage from "./components/HomePage";
 import MFooter from "./components/MFooter";
 import Component1 from "./components/Component1";
+import Component2 from "./components/Component2";
 
 function App() {
   const year = 2023;
@@ -20,6 +21,8 @@ function App() {
         <Component1
           number={number1}
         />
+
+        <Component2 />
       </header>
       <MFooter
         year={year}
