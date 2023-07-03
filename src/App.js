@@ -14,7 +14,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World Rebase Main 1
+          Hello World Rebase Main 02-child
         </p>
         <HomePage />
 
