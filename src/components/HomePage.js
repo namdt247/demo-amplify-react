@@ -7,7 +7,7 @@ function HomePage(props) {
         color: "rebeccapurple",
       }}
     >
-      Home page main Rebase Main 01
+      Home page main Rebase Main [Test]
     </div>
   );
 }
