@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import HomePage from "./components/HomePage";
+import MFooter from "./components/MFooter";
 
 function App() {
+  const year = 2023;
   return (
     <div className="App">
       <header className="App-header">
@@ -12,6 +14,9 @@ function App() {
         </p>
         <HomePage />
       </header>
+      <MFooter
+        year={year}
+      />
     </div>
   );
 }
